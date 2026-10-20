@@ -18,7 +18,9 @@ pip install -r requirements.txt
 ```
 
 2. Pobranie danych:
-Należy pobrać [zbiór danych](https://www.kaggle.com/datasets/danizo/eeg-dataset-for-adhd/data), nazwać plik `adhdata.csv` i dać do folderu `data`.
 
-3. Uruchomienie analizy i modeli
+Należy pobrać [zbiór danych](https://www.kaggle.com/datasets/danizo/eeg-dataset-for-adhd/data), nazwać plik `adhdata.csv` i dać do folderu `data/`.
+
+3. Uruchomienie analizy i modeli:
+
 Należy najpierw uruchomić komórki po kolei w notatniku z analizą danych (`eda.ipynb`), następne notatnik z modelami `models.ipynb`.
